@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Fab/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_Island_Example.umap
+Content/Fab/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_Desert_Example.umap
+Content/Fab/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_MountainRange_Example.umap
